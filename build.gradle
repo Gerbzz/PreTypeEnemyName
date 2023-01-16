@@ -1,5 +1,3 @@
-package net.runelite.client.plugins.WildernessClanCallouts
-
 plugins {
 	id 'java'
 }
@@ -25,7 +23,7 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 }
 
-group = 'com.PreTypeEnemyName'
+group = 'com.WildernessClanCallouts'
 version = '1.0-SNAPSHOT'
 sourceCompatibility = '1.8'
 

@@ -5,7 +5,7 @@ import net.runelite.client.externalplugins.ExternalPluginManager;
 import net.runelite.client.plugins.WildernessClanCallouts.src.main.java.com.WildernessClanCallouts.WildernessClanCalloutsPlugin;
 
 
-public class PreTypeEnemyNameTest
+public class WildernessClanCalloutsTest
 {
 	public static void main(String[] args) throws Exception
 	{
