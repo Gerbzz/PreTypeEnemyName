@@ -17,7 +17,7 @@ import java.awt.event.KeyEvent;
 
 
 
-@PluginDescriptor(name = "Wilderness Clan Callouts", enabledByDefault=true)
+@PluginDescriptor(name = "Wilderness Clan Callouts", enabledByDefault=false)
 @Singleton
 public class WildernessClanCalloutsPlugin extends Plugin
 {
